@@ -1,0 +1,2 @@
+Type: fire accident, Time: 12:00, Date: 12/23/23, Location: TIP MANILA
+Type: Murder, Time: 12:00, Date: 12/23/23, Location: TIP MANILA
